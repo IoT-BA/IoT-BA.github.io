@@ -1,0 +1,21 @@
+inspiracia na stranku
+https://webelement.sk
+
+zdroje na ulozenie
+http://www.meetup.com/IoT-Bratislava/
+
+free temy pre bootstrap
+http://bootswatch.com
+http://startbootstrap.com/template-categories/all/
+
+zdroje pre bootstrap
+http://startbootstrap.com/bootstrap-resources/
+
+social icons
+http://lipis.github.io/bootstrap-social/
+https://github.com/lipis/bootstrap-social
+
+fonty a ikonky
+http://fortawesome.github.io/Font-Awesome/get-started/
+http://fortawesome.github.io/Font-Awesome/examples/
+https://github.com/FortAwesome/Font-Awesome
